@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15434" started-at="2017-02-16T06:59:07Z" finished-at="2017-02-16T06:59:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15434" started-at="2017-02-16T06:59:07Z" finished-at="2017-02-16T06:59:22Z">
+      <class name="com.whiteqa.com.amazon">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.whiteqa.com.amazon@2f686d1f]" name="beforeClass" is-config="true" duration-ms="9582" started-at="2017-02-15T22:59:07Z" finished-at="2017-02-15T22:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="GiftCardPageFunction()[pri:0, instance:com.whiteqa.com.amazon@2f686d1f]" name="GiftCardPageFunction" duration-ms="5306" started-at="2017-02-15T22:59:16Z" finished-at="2017-02-15T22:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardPageFunction -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:com.whiteqa.com.amazon@2f686d1f]" name="closedriver" is-config="true" duration-ms="529" started-at="2017-02-15T22:59:22Z" finished-at="2017-02-15T22:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- com.whiteqa.com.amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
