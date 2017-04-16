@@ -1,6 +1,5 @@
 ///// Scenario - add two item in the cart and finally assert for cart page.///////////
 
-
 package com.whiteqa.com;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
